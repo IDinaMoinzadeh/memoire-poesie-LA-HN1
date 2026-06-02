@@ -4,7 +4,7 @@ Annexes numériques du mémoire de master « Humanités numériques »,
 École nationale des chartes / EHESS / PSL.
 
 **Autrice :** Irandokht Dina Moinzadeh
-**Direction :** Jean Barré et Dinah Ribard
+**Direction :** «Jean Barré / Dinah Ribard»
 **Année :** 2025-2026
 
 Ce dépôt rassemble les données, les scripts et la documentation permettant de **reproduire et
@@ -66,22 +66,23 @@ déterministes et reproductibles.
 
 ### 4.1 Transformations (déterministes, reproductibles)
 
-| Script | Entrée | Sortie | Rôle |
-|--------|--------|--------|------|
-| `transformation/«À COMPLÉTER».py` | anthologies + revues nationales | `poetes_LA_canon_national_FINAL.csv` | Calcule les scores de canon national (volume et présence) |
-| `transformation/«À COMPLÉTER».py` | listes des 14 anthologies locales + index + LAPL/lauréats | `poetes_LA_canon_local_scored.csv` | Calcule le score de canon local |
-| `transformation/«À COMPLÉTER».py` | `jstor_metadata_2026-05-03.jsonl.gz` | `revues_nationales_FINAL.csv` | Compte les publications par revue (Poetry, APR, Kenyon Review, Prairie Schooner) |
+| Script | Entrée(s) | Sortie | Rôle |
+|--------|-----------|--------|------|
+| `transformation/07_anthologies_nationales.py` | `poetes_LA_canon_local.csv` · `bap_poetes_clean.csv` · `input_norton_gioia_raw.txt` | `anthologies_nationales_FINAL.csv` | Croise Norton (Gioia, sous-chaîne), Penguin (exact normalisé) et BAP avec le corpus ; produit les colonnes `in_norton`, `in_penguin`, `in_bap`, `nb_bap`, `annees_bap` |
+| `transformation/08a_croisement_revues_nationales.py` | `jstor_auteurs_revues.json` · `poetes_LA.csv` | `revues_nationales.csv` | Croise le JSON JSTOR avec le corpus (622 poètes) ; produit les listes d'années de publication par revue |
+| `transformation/08b_nettoyage_revues_FINAL.py` | `revues_nationales.csv` | `revues_nationales_FINAL.csv` | Retire 4 poètes hors-corpus (622→618) ; ajoute les colonnes `_nb_pub` et `score_revues_volume` |
+| `transformation/09_scoring_canon_national.py` | `revues_nationales_FINAL.csv` · `anthologies_nationales_FINAL.csv` | `poetes_LA_canon_national_FINAL.csv` | Fusionne revues et anthologies ; calcule `score_national_volume` et `score_national_presence` |
+| `transformation/10_score_canon_local.py` | `poetes_LA_canon_local.csv` | `poetes_LA_canon_local_scored.csv` | Calcule `score_canon_local` par application des poids sur les 14 anthologies locales, la liste LAPL et les lauréats |
 
 ### 4.2 Acquisitions (non déterministes, documentées par l'entrée figée)
 
-| Script | Entrée figée | Sortie | Note |
-|--------|--------------|--------|------|
-| `acquisition/«À COMPLÉTER».py` | snapshot Wayback `«À COMPLÉTER»` | liste BAP | Scraping itératif |
-| `acquisition/«À COMPLÉTER».py` | page Wikipedia (Norton) | liste Norton | BeautifulSoup |
-| (manuel) | OCR Penguin | liste Penguin | Saisie manuelle |
-| (manuel / OCR) | index *Hold-Outs* (Mohr) | liste ~200 poètes | OCR + correction manuelle |
-
-«À COMPLÉTER : remplacer les noms de fichiers réels et compléter les lignes manquantes.»
+| Notebook / script | Entrée figée | Sortie | Note |
+|-------------------|--------------|--------|------|
+| `notebooks/Canon_LA.ipynb` | `poetes_LA_liste_definitive.txt` + 14 listes d'anthologies (OCR/saisie) | `poetes_LA_canon_local.csv` | Construction du corpus : ~90 cellules, corrections de noms au fil de l'eau ; carnet de construction conservé comme trace de l'acquisition manuelle |
+| `notebooks/croisement_revues-nationales.ipynb` (cellule 1) | `jstor_metadata_2026-05-03.jsonl.gz` (1,29 Go, export JSTOR Data for Research, 2026-05-03) | `jstor_auteurs_revues.json` | Lit le fichier JSTOR (~5 min), croise les auteurs avec le corpus, produit le JSON de croisement utilisé par `08a` |
+| `notebooks/bap_scraping.ipynb` | snapshot Wayback Machine `20250420030249` de `bestamericanpoetry.com/archive/` | `bap_poetes_clean.csv` | Scraping itératif des tables BAP 1988-2024 ; fonction `extraire_poetes_v2` |
+| (manuel) | OCR captures d'écran du sommaire Penguin (Dove, 2011) | liste en dur dans `07_anthologies_nationales.py` | Saisie manuelle ligne par ligne |
+| (manuel / OCR) | index *Hold-Outs* (Mohr, 2011) | colonne `holdouts` dans `poetes_LA_canon_local.csv` | OCR + correction manuelle sur 203 noms |
 
 ### 4.3 Visualisations
 
@@ -119,22 +120,23 @@ Dépendances supplémentaires (viz 02, 03, 06) : `pip install scipy adjustText -
 
 - Bill Mohr, *Hold-Outs* (source primaire de l'index)
 - 14 anthologies locales de Los Angeles (1972-2017)
-- *Norton Anthology of Modern and Contemporary Poetry* (2003)
+- *Norton Anthology of Modern and Contemporary Poetry* (2003) — utilisée dans la comparaison SF/LA (viz7, barres Norton M&C)
+- *Norton Anthology of Poetry*, éd. Gioia et al. (table des matières partielle, partie moderne) — utilisée pour la colonne `in_norton` du corpus LA
 - *Penguin Anthology of Twentieth-Century American Poetry*, éd. Rita Dove (2011)
 - *Best American Poetry* (1988-2024)
 - 4 revues via JSTOR : *Poetry*, *American Poetry Review*, *Kenyon Review*, *Prairie Schooner*
 
 ### 5.3 Conventions de scoring
 
-«À COMPLÉTER (optionnel mais recommandé) : rappeler ici en 3-4 lignes les choix de pondération,
-par ex. BAP en binaire, anthologies pondérées à 2 points, revues en deux variantes volume/présence.»
+**Canon local** (`score_canon_local`) : 13 anthologies locales × 1 pt + `mohr_blog_absents` × 1 pt + `lapl_list` × 2 pts + lauréat × 3 pts. La colonne `holdouts` (index *Hold-Outs*, Mohr) est exclue du score : source biographique sans sélection éditoriale, elle documente la présence dans la scène sans constituer une consécration. Score max observé : 11.
+
+**Canon national** : deux scores sont maintenus en parallèle comme dispositif analytique. `score_national_volume` : composante revues en volume cumulé (1 pt par publication) + anthologies. `score_national_presence` : composante revues en présence binaire (1 pt par revue distincte) + anthologies. Les deux scores ne diffèrent que par la composante revues. Anthologies : 2 pts chacune (Norton/Gioia, Penguin, BAP) — le poids 2 reflète la hiérarchie canonisation > circulation. Le BAP est traité en présence binaire (0/1) : sa nature annuelle le rend incomparable aux anthologies à volume unique.
 
 ---
 
 ## 6. Licence et citation
 
-«À COMPLÉTER : licence choisie pour le code et les données, par ex. MIT pour le code,
-CC BY pour les données. Si dépôt Zenodo, indiquer ici le DOI une fois la release archivée.»
+Licence à préciser. Pour toute question d'usage ou de réutilisation, contacter l'autrice.
 
 Pour citer ces annexes : Irandokht Dina Moinzadeh, *Canonicité et géographie littéraire :
-la poésie de Los Angeles (1948-2024)*, annexes numériques, 2026, «URL du dépôt / DOI».
+la poésie de Los Angeles (1948-2024)*, annexes numériques, 2026, «https://github.com/IDinaMoinzadeh/memoire-poesie-LA-HN1/».
