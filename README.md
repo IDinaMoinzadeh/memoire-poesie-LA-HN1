@@ -3,7 +3,7 @@
 Annexes numériques du mémoire de master « Technologies numériques appliquées à l'histoire »,
 École nationale des chartes / EHESS / PSL.
 
-**Autrice :** Irandokht Moinzadeh
+**Autrice :** Irandokht Dina Moinzadeh
 **Direction :** «Jean Barré / Dinah Ribard»
 **Année :** 2025-2026
 
@@ -136,5 +136,5 @@ par ex. BAP en binaire, anthologies pondérées à 2 points, revues en deux vari
 «À COMPLÉTER : licence choisie pour le code et les données, par ex. MIT pour le code,
 CC BY pour les données. Si dépôt Zenodo, indiquer ici le DOI une fois la release archivée.»
 
-Pour citer ces annexes : Irandokht Moinzadeh, *Canonicité et géographie littéraire :
+Pour citer ces annexes : Irandokht Dina Moinzadeh, *Canonicité et géographie littéraire :
 la poésie de Los Angeles (1970-2020)*, annexes numériques, 2026, «URL du dépôt / DOI».
