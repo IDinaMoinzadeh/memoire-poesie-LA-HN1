@@ -1,0 +1,619 @@
+poet_id,nom_canonique,in_norton,in_penguin,in_bap,annees_bap,nb_bap,score_anthologies_presence
+1,Steve Abee,0,0,0,,0,0
+2,Harold Abramowitz,0,0,0,,0,0
+3,Ricardo Lira Acuna,0,0,0,,0,0
+4,Thomas Adams,0,0,0,,0,0
+5,Mikael Ahadou,0,0,0,,0,0
+6,Christine Choi Ahmed,0,0,0,,0,0
+7,Tanzila Ahmed,0,0,0,,0,0
+8,Josephine Ain,0,0,0,,0,0
+9,Riua Akinshegun,0,0,0,,0,0
+10,Linda Albertano,0,0,0,,0,0
+11,Nelson Alburquenque,0,0,0,,0,0
+12,Robert Alexander,0,0,0,,0,0
+13,Will Alexander,0,0,1,2023,1,1
+14,Luis Alfaro,0,0,0,,0,0
+15,Paula Gunn Allen,0,1,0,,0,1
+16,Blair H. Allen,0,0,0,,0,0
+17,Rosie Angelica Alonso,0,0,0,,0,0
+18,Rafael F J Alvarado,0,0,0,,0,0
+19,Li Yun Alvarado,0,0,0,,0,0
+20,Karina Oliva Alvarado,0,0,0,,0,0
+21,Melissa F. Alvarado,0,0,0,,0,0
+22,Gloria Alvarez,0,0,0,,0,0
+23,Dave Alvin,0,0,0,,0,0
+24,Ameen Alwan,0,0,0,,0,0
+25,E. Amato,0,0,0,,0,0
+26,Iris De Anda,0,0,0,,0,0
+27,Michael Andrews,0,0,0,,0,0
+28,Ralph Angel,0,0,1,"1988,2008",2,1
+29,William Archila,0,0,0,,0,0
+30,RD Armstrong,0,0,0,,0,0
+31,Mary Armstrong,0,0,0,,0,0
+32,Diana Arterian,0,0,0,,0,0
+33,Kenneth Atchity,0,0,0,,0,0
+34,Erika Ayon,0,0,0,,0,0
+35,Danny Baker,0,0,0,,0,0
+36,Dorothy Barnes,0,0,0,,0,0
+37,Dick Barnes,0,0,0,,0,0
+38,Tony Barnstone,0,0,0,,0,0
+39,Todd Baron,0,0,0,,0,0
+40,Dorothy Barresi,0,0,0,,0,0
+41,Richard Beban,0,0,0,,0,0
+42,Marjorie Becker,0,0,0,,0,0
+43,Cal Bedient,0,0,1,2001,1,1
+44,Lory Bedikian,0,0,0,,0,0
+45,John Beecher,0,0,0,,0,0
+46,Max Benavidez,0,0,0,,0,0
+47,Molly Bendall,0,0,0,,0,0
+48,Lin Benedek,0,0,0,,0,0
+49,Kim Benjamin,0,0,0,,0,0
+50,Dinah Berland,0,0,0,,0,0
+51,Wallace Berman,0,0,0,,0,0
+52,Xochitl-Julisa Bermejo,0,0,0,,0,0
+53,Andres Bermejo,0,0,0,,0,0
+55,Bridgette Bianca,0,0,0,,0,0
+56,Niki Billingslea,0,0,0,,0,0
+57,Billy Al Bingston,0,0,0,,0,0
+58,Michelle Bitting,0,0,0,,0,0
+59,Charles Bivins,0,0,0,,0,0
+60,Laurel Ann Bogen,0,0,0,,0,0
+61,Joan La Bombard,0,0,0,,0,0
+62,Jennifer Bowen,0,0,0,,0,0
+63,Sue Abbott Boyd,0,0,0,,0,0
+64,Bruce Boyd,0,0,0,,0,0
+65,John Brander,0,0,0,,0,0
+66,John Brantingham,0,0,0,,0,0
+67,Kate Braverman,0,0,0,,0,0
+68,Lynne Bronstein,0,0,0,,0,0
+69,F. Douglas Brown,0,0,0,,0,0
+70,Derek D. Brown,0,0,0,,0,0
+71,Stephanie Brown,0,0,1,"1993,1995,1997,2005,2012",5,1
+72,Jeffrey Bryant,0,0,0,,0,0
+73,Shonda Buchanan,0,0,0,,0,0
+74,Christopher Buckley,0,0,1,2021,1,1
+75,Ruthie Buell,0,0,0,,0,0
+76,Charles Bukowski,0,0,1,"1993,1994,2005",3,1
+77,Billy Burgos,0,0,0,,0,0
+78,Ann Buxie,0,0,0,,0,0
+79,Elena Karina Byrne,0,0,1,2005,1,1
+80,Paul Calderon,0,0,0,,0,0
+81,Ben Caldwell,0,0,0,,0,0
+82,Don Kingfisher Campbell,0,0,0,,0,0
+83,Luis Campos,0,0,0,,0,0
+84,Jessica M. Wilson Cardenas,0,0,0,,0,0
+85,Helene Cardona,0,0,0,,0,0
+86,Alvaro Cardona-Hine,0,0,0,,0,0
+87,Anne Carmack,0,0,0,,0,0
+88,Anaid Carreno,0,0,0,,0,0
+89,Iliana Carter,0,0,0,,0,0
+90,Peter Cashorali,0,0,0,,0,0
+91,Fernando J. Castro,0,0,0,,0,0
+92,Sue Caylor,0,0,0,,0,0
+93,Jessica Ceballos,0,0,0,,0,0
+94,Adrian Ernesto Cepeda,0,0,0,,0,0
+95,Angel Cerritos,0,0,0,,0,0
+96,Alma Cervantes,0,0,0,,0,0
+97,Exene Cervenka,0,0,0,,0,0
+98,Robert Chambers,0,0,0,,0,0
+99,Cathy Linh Che,0,0,1,2022,1,1
+100,Lisa Cheby,0,0,0,,0,0
+101,Jen Cheng,0,0,0,,0,0
+102,Neeli Cherry,0,0,0,,0,0
+103,Judy Chicago,0,0,0,,0,0
+104,Aileen Cho,0,0,0,,0,0
+105,Gabreal Cho,0,0,0,,0,0
+106,Chiwan Choi,0,0,0,,0,0
+107,Marcus Clayton,0,0,0,,0,0
+108,Odessa Cleveland,0,0,0,,0,0
+109,Michelle T. Clinton,0,0,1,1994,1,1
+110,Jeanette Clough,0,0,0,,0,0
+111,Tricia Cochee,0,0,0,,0,0
+112,Nan Cohen,0,0,0,,0,0
+113,Lori Cohen,0,0,0,,0,0
+114,Mark Colasurdo,0,0,0,,0,0
+115,Wanda Coleman,0,0,1,"1988,1996",2,1
+116,Larry Colker,0,0,0,,0,0
+117,Buddy Collette,0,0,0,,0,0
+119,Cathy Colman,0,0,0,,0,0
+120,Brendan Constantine,0,0,1,2024,1,1
+121,Dennis Cooper,0,0,1,2010,1,1
+122,Henri Coulette,0,0,0,,0,0
+123,Robert Crosson,0,0,0,,0,0
+124,Rafa Cruz,0,0,0,,0,0
+125,Gil Cuadros,0,0,0,,0,0
+126,Iliana Cuellar,0,0,0,,0,0
+127,Yago S. Cura,0,0,0,,0,0
+128,Art Currim,0,0,0,,0,0
+129,James Cushing,0,0,0,,0,0
+130,Doren Damico,0,0,0,,0,0
+131,Mary-Alice Daniel,0,0,0,,0,0
+132,Michael Datcher,0,0,0,,0,0
+133,Carol V. Davis,0,0,0,,0,0
+134,Kamau Daáood,0,0,0,,0,0
+135,Jacqueline DeAngelis,0,0,0,,0,0
+136,Juan Delgado,0,0,0,,0,0
+137,Seven Dhar,0,0,0,,0,0
+138,David M. Diaz,0,0,0,,0,0
+139,Jose Hernandez Diaz,0,0,0,,0,0
+140,Nia Malika Dixon,0,0,0,,0,0
+141,Peggy Dobreer,0,0,0,,0,0
+142,John Doe,0,0,0,,0,0
+143,Dennis Dorney,0,0,0,,0,0
+144,Sharon Doubiago,0,0,0,,0,0
+145,Linda Dove,0,0,0,,0,0
+146,Kim Dower,0,0,0,,0,0
+147,Sharif Dumani,0,0,0,,0,0
+148,Jawanza Dumisani,0,0,0,,0,0
+149,Steve Effingham,0,0,0,,0,0
+150,Susan Efros,0,0,0,,0,0
+151,Christian Elder,0,0,0,,0,0
+152,Dennis Ellman,0,0,0,,0,0
+153,Seth Elpenor,0,0,0,,0,0
+154,Francisco Escamilla,0,0,0,,0,0
+156,Frances Salome Espana,0,0,0,,0,0
+157,Yvonne M. Estrada,0,0,0,,0,0
+158,Carrie Etter,0,0,0,,0,0
+159,Eric Eztli,0,0,0,,0,0
+160,Jenny Factor,0,0,0,,0,0
+161,B.H. Fairchild,0,0,0,,0,0
+162,Alexis Rhone Fancher,0,0,0,,0,0
+163,Maria Fattorini,0,0,0,,0,0
+164,Rich Ferguson,0,0,0,,0,0
+166,Jamie Asaye Fitzgerald,0,0,0,,0,0
+167,Mary Fitzpatrick,0,0,0,,0,0
+168,Bob Flanagan,0,0,0,,0,0
+169,Angela Rose Flores,0,0,0,,0,0
+170,Charles Flowers,0,0,0,,0,0
+171,Michael C. Ford,0,0,0,,0,0
+172,Ruth Forman,0,0,0,,0,0
+173,Simone Forti,0,0,0,,0,0
+174,Charles Foster,0,0,0,,0,0
+175,Sesshu Foster,0,0,0,,0,0
+176,Mariana Franco,0,0,0,,0,0
+177,Amelie Frank,0,0,0,,0,0
+178,Angela M. Franklin,0,0,0,,0,0
+179,Elliot Fried,0,0,0,,0,0
+180,Gene Frumkin,0,0,1,2002,1,1
+181,George Fuller,0,0,0,,0,0
+182,Sol Funerol,0,0,0,,0,0
+183,Kate Gale,0,0,0,,0,0
+184,Lucia Galloway,0,0,0,,0,0
+185,Manazar Gamboa,0,0,0,,0,0
+186,Ramon Garcia,0,0,0,,0,0
+187,Jerry Garcia,0,0,0,,0,0
+188,Richard Garcia,0,0,1,2005,1,1
+189,Nicolai Garcia,0,0,0,,0,0
+190,Margaret Elysia Garcia,0,0,0,,0,0
+191,Frank X. Gaspar,0,0,1,2000,1,1
+192,Marisa Urrutia Gedney,0,0,0,,0,0
+193,Emma Gee,0,0,0,,0,0
+194,Amy Gerstler,0,0,1,"1988,1990,1992,1997,2003,2005,2006,2013,2015,2016,2019,2023",12,1
+195,Marsha Getzler,0,0,0,,0,0
+196,Dana Gioia,1,0,1,"1997,2016,2024",3,2
+197,Steve Goldman,0,0,0,,0,0
+198,Guillermo Gomez-Pena,0,0,0,,0,0
+199,Liz Gonzalez,0,0,0,,0,0
+200,William A. Gonzalez,0,0,0,,0,0
+201,Jessica Goodheart,0,0,1,2005,1,1
+202,Don Gordon,0,0,0,,0,0
+203,Amanda Gorman,0,0,0,,0,0
+204,Gerda Govine,0,0,0,,0,0
+205,Natalie J. Graham,0,0,0,,0,0
+206,Jack Grapes,0,0,0,,0,0
+207,Pamela Gray,0,0,0,,0,0
+208,Dorothy Randall Gray,0,0,0,,0,0
+209,Janet Gray,0,0,0,,0,0
+210,Timothy Green,0,0,0,,0,0
+211,Sonia Greenfield,0,0,1,"2010,2018",2,1
+212,Robert Greenfield,0,0,0,,0,0
+213,Ian Gregson,0,0,0,,0,0
+214,Robert Gribbin,0,0,0,,0,0
+215,S.A. Griffin,0,0,0,,0,0
+216,Gronk,0,0,0,,0,0
+217,Charles Gullans,0,0,0,,0,0
+218,Joseph Hansen,0,0,0,,0,0
+219,John Harris,0,0,0,,0,0
+220,Peter J. Harris,0,0,0,,0,0
+221,Hazel Clayton Harrison,0,0,0,,0,0
+222,Nathan Hassall,0,0,0,,0,0
+223,Levan Hawkins,0,0,0,,0,0
+224,Eloise Klein Healy,0,0,0,,0,0
+225,Kevin James Hearle,0,0,0,,0,0
+226,Leslie Woolf Hedley,0,0,0,,0,0
+227,George Herms,0,0,0,,0,0
+228,David Hernandez,0,0,1,2013,1,1
+229,Judith Hernandez,0,0,0,,0,0
+230,Gustavo Hernandez,0,0,0,,0,0
+231,Adolfo Y. Hernandez,0,0,0,,0,0
+232,Raul Herrera,0,0,0,,0,0
+233,Juan Felipe Herrera,0,0,1,1992,1,1
+234,Leland Hickman,0,0,0,,0,0
+235,Bill Hickok,0,0,0,,0,0
+236,Billy Higgins,0,0,0,,0,0
+237,Regina Higgins,0,0,0,,0,0
+238,William Ryan Hilary,0,0,0,,0,0
+239,Yuri Hinson,0,0,0,,0,0
+240,Jack Hirschman,0,0,0,,0,0
+241,Marlene Hitt,0,0,0,,0,0
+242,Jen Hofer,0,0,0,,0,0
+243,Alexandra Hohmann,0,0,0,,0,0
+244,Karen Holden,0,0,0,,0,0
+245,Harmony Holiday,0,0,0,,0,0
+246,Jamal Holmes,0,0,0,,0,0
+247,Tanya Ko Hong,0,0,0,,0,0
+248,Walter Hopps,0,0,0,,0,0
+249,Coy Howard,0,0,0,,0,0
+250,Eric Howard,0,0,0,,0,0
+251,Dorothy B. Hughes,0,0,0,,0,0
+252,Nan Hunt,0,0,0,,0,0
+253,Terry Hunter,0,0,0,,0,0
+254,Boris Salvador Ingles,0,0,0,,0,0
+255,Charlotte Innes,0,0,0,,0,0
+256,Eileen Aaronson Ireland,0,0,0,,0,0
+257,William Iwamoto,0,0,0,,0,0
+258,Wendy James,0,0,0,,0,0
+259,David James,0,0,0,,0,0
+260,Paul Jarrico,0,0,0,,0,0
+261,David St. John,0,1,1,"1989,1990,1991,1992,2008,2011,2016,2017",8,2
+262,James Evert Jones,0,0,0,,0,0
+263,Lois P. Jones,0,0,0,,0,0
+264,Harry Gamboa Jr.,0,0,0,,0,0
+265,Grover Jacoby Jr.,0,0,0,,0,0
+266,Traci Kato-Kiriyama,0,0,0,,0,0
+267,Douglas Kearney,0,0,1,"2014,2015,2020",3,1
+268,Hanson Kellogg,0,0,0,,0,0
+269,Karen Kevorkian,0,0,0,,0,0
+270,Ed Kienholz,0,0,0,,0,0
+271,Stanley Kiesel,0,0,0,,0,0
+272,Chungmi Kim,0,0,0,,0,0
+273,Susan King,0,0,0,,0,0
+274,Linda King,0,0,0,,0,0
+275,Robert Kirsch,0,0,0,,0,0
+276,Jonathan Kirsch,0,0,0,,0,0
+277,Kaaren Kitchell,0,0,0,,0,0
+278,Doug Knott,0,0,0,,0,0
+279,Ron Koertge,0,0,1,"1999,2006",2,1
+280,Steve Kowit,0,0,0,,0,0
+281,Ian Krieger,0,0,0,,0,0
+282,Nancy Krusoe,0,0,0,,0,0
+283,James Krusoe,0,0,0,,0,0
+284,Harvey Kubernik,0,0,0,,0,0
+285,Suzanne Lacy,0,0,0,,0,0
+286,Maurice Lacy,0,0,0,,0,0
+287,Tom Laichas,0,0,0,,0,0
+288,Michael Lally,0,0,1,2023,1,1
+289,Frona Lane,0,0,0,,0,0
+290,Haley Laningham,0,0,0,,0,0
+291,Carlos Lara,0,0,0,,0,0
+292,Teka Lark,0,0,0,,0,0
+293,Carl Larsen,0,0,0,,0,0
+294,Christine Larusso,0,0,0,,0,0
+295,Anthony A. Lee,0,0,0,,0,0
+296,Janice Lee,0,0,0,,0,0
+297,Julayne Lee,0,0,0,,0,0
+298,Carol Lem,0,0,0,,0,0
+299,Lester Lennon,0,0,0,,0,0
+300,Russell Leong,0,0,0,,0,0
+302,Peter Levitt,0,0,0,,0,0
+303,Carol Lewis,0,0,0,,0,0
+304,Robin Coste Lewis,0,0,1,"2016,2018",2,1
+305,Kimberly Lieu,0,0,0,,0,0
+306,Martha Lifson,0,0,0,,0,0
+307,Mark Lipman,0,0,0,,0,0
+308,Lawrence Lipton,0,0,0,,0,0
+309,Kenji Liu,0,0,0,,0,0
+310,Gerald Locklin,0,0,0,,0,0
+311,Philomene Long,0,0,0,,0,0
+312,Jaime Lopez,0,0,0,,0,0
+313,Bia Lowe,0,0,0,,0,0
+314,Josslyn Luckett,0,0,0,,0,0
+315,Jason Luckett,0,0,0,,0,0
+316,Eve Luckring,0,0,0,,0,0
+317,Oshea Luja,0,0,0,,0,0
+318,Melanie Luja,0,0,0,,0,0
+319,Suzanne Lummis,0,0,0,,0,0
+320,Rick Lupert,0,0,0,,0,0
+321,K. Curtis Lyle,0,0,0,,0,0
+322,Phoebe MacAdams,0,0,0,,0,0
+323,Lewis MacAdams,0,0,0,,0,0
+324,Sarah Maclay,0,0,0,,0,0
+325,Robert Mader-Kammer,0,0,0,,0,0
+326,Ruth Madievsky,0,0,0,,0,0
+327,Mad Mike Magdalani,0,0,0,,0,0
+328,Karineh Mahdessian,0,0,0,,0,0
+329,Marvin Malone,0,0,0,,0,0
+330,Barbara Maloutas,0,0,0,,0,0
+331,Albert Maltz,0,0,0,,0,0
+332,Nichola Manning,0,0,0,,0,0
+333,Lynn Manning,0,0,0,,0,0
+334,Douglas Manuel,0,0,0,,0,0
+335,Ray Manzarek,0,0,0,,0,0
+336,Ymasumac Maranon,0,0,0,,0,0
+337,William Margolis,0,0,0,,0,0
+338,Ruthie Marlene,0,0,0,,0,0
+339,John Martin,0,0,0,,0,0
+340,Jeffery Martin,0,0,0,,0,0
+341,Ruben Martinez,0,0,0,,0,0
+342,D Hideo Maruyama,0,0,0,,0,0
+343,Keith Antar Mason,0,0,0,,0,0
+344,Holaday Mason,0,0,0,,0,0
+345,James Boyer May,0,0,0,,0,0
+346,Anthony McCann,0,0,0,,0,0
+347,Horace McCoy,0,0,0,,0,0
+348,Ross McDonald,0,0,0,,0,0
+349,Rhiannon McGavin,0,0,0,,0,0
+350,Thomas McGrath,0,0,1,1990,1,1
+351,Carey McWilliams,0,0,0,,0,0
+352,Deborah Meadows,0,0,0,,0,0
+353,Murray Mednick,0,0,0,,0,0
+354,Jose Mendivil,0,0,0,,0,0
+355,Sequoia Olivia Mercier,0,0,0,,0,0
+356,Douglas Messerli,0,0,0,,0,0
+357,Deena Metzger,0,0,0,,0,0
+358,Bert Meyers,0,0,0,,0,0
+359,Robert Mezey,0,0,1,1998,1,1
+360,Rondo Mieczkowski,0,0,0,,0,0
+361,Elena Minor,0,0,0,,0,0
+362,Rhonda Lynn Mitchell,0,0,0,,0,0
+363,Penelope Moffet,0,0,0,,0,0
+364,Bill Mohr,0,0,0,,0,0
+365,Alejandro Molina,0,0,0,,0,0
+366,Thea Monyee,0,0,0,,0,0
+367,Cher'rie Moraga,0,0,0,,0,0
+368,James Ryan Morris,0,0,0,,0,0
+369,Henry J. Morro,0,0,0,,0,0
+370,Walter Moseley,0,0,0,,0,0
+371,Sybil Mosely,0,0,0,,0,0
+372,Suzanne Muchnic,0,0,0,,0,0
+373,Judy Mudfoot,0,0,0,,0,0
+374,Merilene M. Murphy,0,0,0,,0,0
+375,Carol Muske-Dukes,0,1,1,2012,1,2
+376,Majid Naficy,0,0,0,,0,0
+377,Marty Nakel,0,0,0,,0,0
+378,Jim Natal,0,0,0,,0,0
+379,Mindy Nettifee,0,0,0,,0,0
+380,Sasha Newborn,0,0,0,,0,0
+381,Charley Newman,0,0,0,,0,0
+382,Julia Newman,0,0,0,,0,0
+383,Gail Newman,0,0,0,,0,0
+384,Terri Niccum,0,0,0,,0,0
+385,Alice Nicholas,0,0,0,,0,0
+386,Ann Nietzsche,0,0,0,,0,0
+387,Janet Nippell,0,0,0,,0,0
+388,Art Nixon,0,0,0,,0,0
+389,Victor Noel,0,0,0,,0,0
+390,Marisela Norte,0,0,0,,0,0
+391,Harry Northup,0,0,0,,0,0
+392,Estelle Gershgoren Novak,0,0,0,,0,0
+393,V. Kali Nurigan,0,0,0,,0,0
+394,Marsha De la O,0,0,0,,0,0
+395,Jamie O'Halloran,0,0,0,,0,0
+396,William Oandasan,0,0,0,,0,0
+397,Akilah Nayo Oliver,0,0,0,,0,0
+398,Wendy C. Ortiz,0,0,0,,0,0
+399,Martin Ott,0,0,0,,0,0
+400,Rosella Pace,0,0,0,,0,0
+401,Javier Pacheco,0,0,0,,0,0
+402,Judith Pacht,0,0,0,,0,0
+403,Nancy Padron,0,0,0,,0,0
+404,Melinda Palacio,0,0,0,,0,0
+405,Rae Paris,0,0,0,,0,0
+406,Morgan Parker,0,0,1,"2016,2019",2,1
+407,T. Jefferson Parker,0,0,0,,0,0
+408,Blanche Paul,0,0,0,,0,0
+409,Sherman Pearl,0,0,0,,0,0
+410,Marlene Pearson,0,0,0,,0,0
+411,Candace Pearson,0,0,0,,0,0
+412,Gerda Penfold,0,0,0,,0,0
+413,Cece Peri,0,0,0,,0,0
+414,Suzan Perkoff,0,0,0,,0,0
+415,Stuart Z. Perkoff,0,0,0,,0,0
+416,Alice Pero,0,0,0,,0,0
+417,Robert Peters,0,0,0,,0,0
+418,Dennis Phillips,0,0,0,,0,0
+419,Ramona Pilar,0,0,0,,0,0
+420,William Pillin,0,0,0,,0,0
+421,Ben Pleasants,0,0,0,,0,0
+422,Robin Podolsky,0,0,0,,0,0
+423,Doraine Poretz,0,0,0,,0,0
+424,Nailah Porter,0,0,0,,0,0
+425,Holly Prado,0,0,0,,0,0
+426,Eric Priestley,0,0,0,,0,0
+427,Jerry Quickley,0,0,0,,0,0
+428,Naomi Quinonez,0,0,0,,0,0
+429,Arturo Quiros,0,0,0,,0,0
+430,Claire Rabe,0,0,0,,0,0
+431,James Ragan,0,0,0,,0,0
+432,Jed Rasula,0,0,0,,0,0
+433,Arlene Raven,0,0,0,,0,0
+434,Linda Ravenswood,0,0,0,,0,0
+435,Donald Rawley,0,0,0,,0,0
+436,A. Razor,0,0,0,,0,0
+437,John Rechy,0,0,0,,0,0
+438,Ellen Reich,0,0,0,,0,0
+439,Steven Reigns,0,0,0,,0,0
+440,Naomi Replansky,0,0,0,,0,0
+441,Luivette Resto,0,0,0,,0,0
+442,Michael Reyes,0,0,0,,0,0
+443,Erika Reyes,0,0,0,,0,0
+444,Thelma T. Reyna,0,0,0,,0,0
+445,Tim Reynolds,0,0,0,,0,0
+446,Arte Richer,0,0,0,,0,0
+447,Steve Richmond,0,0,0,,0,0
+448,Frankie Rios,0,0,0,,0,0
+449,El Rivera,0,0,0,,0,0
+450,Sophia Rivera,0,0,0,,0,0
+451,Doren Robbins,0,0,0,,0,0
+452,Ariel Robello,0,0,0,,0,0
+453,Marilyn Robertson,0,0,0,,0,0
+454,Brooks Roddan,0,0,0,,0,0
+455,Luis J. Rodriguez,0,0,0,,0,0
+456,Aleida Rodriguez,0,0,0,,0,0
+457,Daniela Rodriguez,0,0,0,,0,0
+458,Trini Rodriguez,0,0,0,,0,0
+459,Claudia Rodriguez,0,0,0,,0,0
+460,Norma Rodriguez,0,0,0,,0,0
+461,Ramiro D. Rodriguez,0,0,0,,0,0
+462,Jeff Rogers,0,0,0,,0,0
+463,Edwin Rolfe,0,0,0,,0,0
+464,Henry Rollins,0,0,0,,0,0
+465,Conrad Romo,0,0,0,,0,0
+466,Jessica Romoff,0,0,0,,0,0
+467,Martha Ronk,0,0,0,,0,0
+468,Sylvia Rosen,0,0,0,,0,0
+469,Lee Rossi,0,0,0,,0,0
+470,Melissa Roxas,0,0,0,,0,0
+471,Ed Ruscha,0,0,0,,0,0
+472,Beth Ruscio,0,0,0,,0,0
+473,A.P. Russo,0,0,0,,0,0
+474,Mehnaz Sahibzada,0,0,0,,0,0
+475,Pogo Saito,0,0,0,,0,0
+476,Jerome Sala,0,0,1,"2005,2023",2,1
+477,Maya Salameh,0,0,0,,0,0
+478,Abel Salas,0,0,0,,0,0
+479,Mark Salerno,0,0,0,,0,0
+480,Alejandra Sanchez,0,0,0,,0,0
+481,Georgiana Valoyce Sanchez,0,0,0,,0,0
+482,Cathie Sandstrom,0,0,0,,0,0
+483,T Sarmina,0,0,0,,0,0
+484,Standard Schaeffer,0,0,0,,0,0
+485,Nicky Sa-eun Schildkraut,0,0,0,,0,0
+486,Peter Schjeldahl,0,0,0,,0,0
+487,Peter Schneidre,0,0,0,,0,0
+488,Budd Schulberg,0,0,0,,0,0
+489,Tony Scibella,0,0,0,,0,0
+490,Adrian Scott,0,0,0,,0,0
+491,Matt Sedillo,0,0,0,,0,0
+492,Anthony Seidman,0,0,0,,0,0
+493,Patty Seyburn,0,0,0,,0,0
+494,S. Pearl Sharp,0,0,0,,0,0
+495,Michael Shepler,0,0,0,,0,0
+496,Mahtem Shiferraw,0,0,0,,0,0
+497,Nancy Shiffrin,0,0,0,,0,0
+498,Lynn Shoemaker,0,0,0,,0,0
+499,David Shook,0,0,0,,0,0
+500,Renee Simms,0,0,0,,0,0
+501,Norton Simon,0,0,0,,0,0
+502,Romus Simpson,0,0,0,,0,0
+503,Hiram Sims,0,0,0,,0,0
+504,Willie Sims,0,0,0,,0,0
+505,Jack Skelley,0,0,1,2023,1,1
+506,Joan Jobe Smith,0,0,0,,0,0
+507,Frances Dean Smith,0,0,0,,0,0
+508,George Drury Smith,0,0,0,,0,0
+509,Raaki Solomon,0,0,0,,0,0
+510,Brian Sonia-Wallace,0,0,0,,0,0
+511,Mike Sonksen,0,0,0,,0,0
+512,Phil Spector,0,0,0,,0,0
+513,Lawrence Spingarn,0,0,0,,0,0
+514,Donna Spruijt-Metz,0,0,0,,0,0
+515,A.C. Lyons Sr.,0,0,0,,0,0
+516,Ann Stanford,0,0,0,,0,0
+517,Robert Stanley,0,0,0,,0,0
+518,Timothy Steele,0,0,0,,0,0
+519,Brian Kim Stefans,0,0,1,2004,1,1
+520,Julia Stein,0,0,0,,0,0
+521,Charles Stetler,0,0,0,,0,0
+522,Austin Straus,0,0,0,,0,0
+523,John Struloeff,0,0,0,,0,0
+524,Rob Sullivan,0,0,0,,0,0
+525,Hannibal Tabu,0,0,0,,0,0
+526,Ambika Talwar,0,0,0,,0,0
+527,Amber Tamblyn,0,0,0,,0,0
+528,Horace Tapscott,0,0,0,,0,0
+529,Roger Taus,0,0,0,,0,0
+530,Judith Taylor,0,0,0,,0,0
+531,Jervey Tervalon,0,0,0,,0,0
+532,Judith Terzi,0,0,0,,0,0
+533,Edmund Teske,0,0,0,,0,0
+534,Tezozomoc,0,0,0,,0,0
+535,Tanya S. Thamkruphat,0,0,0,,0,0
+536,John Thomas,0,0,0,,0,0
+537,Lynne Thompson,0,0,1,2020,1,1
+538,Daniel Tiffany,0,0,0,,0,0
+539,Matthew Timmons,0,0,0,,0,0
+540,Imani Tolliver,0,0,0,,0,0
+541,A.K. Toney,0,0,0,,0,0
+542,Mary Torregrossa,0,0,0,,0,0
+543,Michael Torres,0,0,0,,0,0
+544,Alison Townsend,0,0,1,2006,1,1
+545,Paul Trachtenberg,0,0,0,,0,0
+546,Gene Trembleau,0,0,0,,0,0
+547,David Trinidad,0,0,1,"1991,2010,2013,2023",4,1
+548,Alexander Trocchi,0,0,0,,0,0
+549,Quincy Troupe,0,0,1,2000,1,1
+550,Tu'Nook,0,0,0,,0,0
+551,Wyatt Underwood,0,0,0,,0,0
+552,Mitchell Untch,0,0,0,,0,0
+553,Anna Urena,0,0,0,,0,0
+554,Amy Uyematsu,0,0,0,,0,0
+555,Victor Valle,0,0,0,,0,0
+556,Gloria Vando,0,0,0,,0,0
+557,Paul Vangelisti,0,0,0,,0,0
+558,Debra A. Varnado,0,0,0,,0,0
+559,Cherry Jean Vasconcellos,0,0,0,,0,0
+560,Rolland Vasin,0,0,0,,0,0
+561,Gustavo Adolfo Guerra Vasquez,0,0,0,,0,0
+562,Yvonne de la Vega,0,0,0,,0,0
+563,Sharon Venezio,0,0,0,,0,0
+564,Michael Ventura,0,0,0,,0,0
+565,Vickie Vertiz,0,0,0,,0,0
+566,Jennifer Lisa Vest,0,0,0,,0,0
+567,Estela Victoria-Cordero,0,0,0,,0,0
+568,Raul Homero Villa,0,0,0,,0,0
+569,Antonieta Villamil,0,0,0,,0,0
+570,Celia Viramontes,0,0,0,,0,0
+571,Marci Vogel,0,0,0,,0,0
+572,Arthur Vogelsang,0,0,1,"1995,2007",2,1
+573,Fred Voss,0,0,0,,0,0
+574,Tom Waits,0,0,0,,0,0
+576,Melora Walters,0,0,0,,0,0
+577,Scott Wannberg,0,0,0,,0,0
+578,Pam Ward,0,0,0,,0,0
+579,Marine Robert Warden,0,0,0,,0,0
+580,Joanna Warwick,0,0,0,,0,0
+581,Charles Harper Webb,0,0,1,"2006,2007,2009",3,1
+583,Florence Weinberger,0,0,0,,0,0
+584,Mel Weisburg,0,0,0,,0,0
+585,Hilda Weiss,0,0,0,,0,0
+586,Benjamin Weissman,0,0,0,,0,0
+587,Lawrence Weschler,0,0,0,,0,0
+588,Jackson Wheeler,0,0,0,,0,0
+589,Saul White,0,0,0,,0,0
+590,Rex Wilder,0,0,0,,0,0
+591,Conney D. Williams,0,0,0,,0,0
+592,Angelo Williams,0,0,0,,0,0
+593,Bruce Williams,0,0,0,,0,0
+594,Michael Wilson,0,0,0,,0,0
+595,Sammy Winston,0,0,0,,0,0
+596,Cecilia Woloch,0,0,1,2005,1,1
+597,Sholeh Wolpe,0,0,0,,0,0
+598,Terry Wolverton,0,0,0,,0,0
+599,Nancy Lynee Woo,0,0,0,,0,0
+600,Elaine Woo,0,0,0,,0,0
+601,Gail Wronsky,0,0,0,,0,0
+602,Nina Yamamoto,0,0,0,,0,0
+603,Tina Yang,0,0,0,,0,0
+604,Brenda Yates,0,0,0,,0,0
+605,Peter Yates,0,0,0,,0,0
+606,Ricardo Means Ybarra,0,0,0,,0,0
+607,Stephen Yenser,0,0,1,"1992,1995,2011",3,1
+608,Sung Yol Yi,0,0,0,,0,0
+609,Kim Young,0,0,0,,0,0
+610,Curtis Zahn,0,0,0,,0,0
+611,Jaha Zainabu,0,0,0,,0,0
+612,Mariano Zaro,0,0,0,,0,0
+613,Jake Zeitlin,0,0,0,,0,0
+614,Rafael Zepeda,0,0,0,,0,0
+615,Al Zolynas,0,0,0,,0,0
+616,Ed Smith,0,0,0,,0,0
+617,Goldie the Poet,0,0,0,,0,0
+618,Aram Saroyan,0,0,0,,0,0
+619,Jenuine Poetess,0,0,0,,0,0
+620,A Kold Piece,0,0,0,,0,0
+621,Father Amde,0,0,0,,0,0
+622,October B.L.U.,0,0,0,,0,0
+623,Charlotte Sista C Ferrell,0,0,0,,0,0
+624,Adolphus McDuffie Jr.,0,0,0,,0,0
+625,Susannah Foster,0,0,0,,0,0

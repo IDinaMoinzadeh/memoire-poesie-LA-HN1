@@ -1,0 +1,619 @@
+poet_id,nom_canonique,score_canon_local,score_national_presence,categorie
+196,Dana Gioia,4,8,national
+261,David St. John,3,8,national
+375,Carol Muske-Dukes,2,7,national
+581,Charles Harper Webb,5,6,double
+74,Christopher Buckley,1,6,national
+76,Charles Bukowski,10,5,double
+194,Amy Gerstler,5,5,double
+79,Elena Karina Byrne,3,5,national
+188,Richard Garcia,3,5,national
+359,Robert Mezey,2,5,national
+191,Frank X. Gaspar,1,5,national
+228,David Hernandez,1,5,national
+549,Quincy Troupe,1,5,national
+115,Wanda Coleman,10,4,double
+537,Lynne Thompson,9,4,double
+547,David Trinidad,4,4,national
+120,Brendan Constantine,3,4,national
+607,Stephen Yenser,2,4,national
+28,Ralph Angel,1,4,national
+544,Alison Townsend,1,4,national
+180,Gene Frumkin,0,4,national
+233,Juan Felipe Herrera,0,4,national
+350,Thomas McGrath,0,4,national
+40,Dorothy Barresi,5,3,double
+109,Michelle T. Clinton,5,3,double
+267,Douglas Kearney,5,3,double
+13,Will Alexander,4,3,national
+29,William Archila,4,3,national
+518,Timothy Steele,4,3,national
+596,Cecilia Woloch,4,3,national
+38,Tony Barnstone,3,3,national
+519,Brian Kim Stefans,3,3,national
+530,Judith Taylor,3,3,national
+47,Molly Bendall,2,3,national
+99,Cathy Linh Che,2,3,national
+240,Jack Hirschman,2,3,national
+358,Bert Meyers,2,3,national
+406,Morgan Parker,2,3,national
+572,Arthur Vogelsang,2,3,national
+15,Paula Gunn Allen,1,3,national
+71,Stephanie Brown,1,3,national
+326,Ruth Madievsky,1,3,national
+516,Ann Stanford,1,3,national
+279,Ron Koertge,7,2,local
+304,Robin Coste Lewis,6,2,local
+425,Holly Prado,6,2,local
+58,Michelle Bitting,3,2,peripherie
+288,Michael Lally,3,2,peripherie
+590,Rex Wilder,3,2,peripherie
+121,Dennis Cooper,2,2,peripherie
+139,Jose Hernandez Diaz,2,2,peripherie
+211,Sonia Greenfield,2,2,peripherie
+420,William Pillin,2,2,peripherie
+431,James Ragan,2,2,peripherie
+24,Ameen Alwan,1,2,peripherie
+61,Joan La Bombard,1,2,peripherie
+131,Mary-Alice Daniel,1,2,peripherie
+144,Sharon Doubiago,1,2,peripherie
+160,Jenny Factor,1,2,peripherie
+201,Jessica Goodheart,1,2,peripherie
+394,Marsha De la O,1,2,peripherie
+499,David Shook,1,2,peripherie
+505,Jack Skelley,1,2,peripherie
+618,Aram Saroyan,1,2,peripherie
+43,Cal Bedient,0,2,peripherie
+86,Alvaro Cardona-Hine,0,2,peripherie
+122,Henri Coulette,0,2,peripherie
+226,Leslie Woolf Hedley,0,2,peripherie
+308,Lawrence Lipton,0,2,peripherie
+476,Jerome Sala,0,2,peripherie
+224,Eloise Klein Healy,11,1,local
+455,Luis J. Rodriguez,7,1,local
+598,Terry Wolverton,7,1,local
+310,Gerald Locklin,6,1,local
+601,Gail Wronsky,6,1,local
+175,Sesshu Foster,5,1,local
+283,James Krusoe,5,1,local
+67,Kate Braverman,4,1,peripherie
+324,Sarah Maclay,4,1,peripherie
+417,Robert Peters,4,1,peripherie
+606,Ricardo Means Ybarra,4,1,peripherie
+52,Xochitl-Julisa Bermejo,3,1,peripherie
+445,Tim Reynolds,3,1,peripherie
+451,Doren Robbins,3,1,peripherie
+467,Martha Ronk,3,1,peripherie
+523,John Struloeff,3,1,peripherie
+556,Gloria Vando,3,1,peripherie
+37,Dick Barnes,2,1,peripherie
+119,Cathy Colman,2,1,peripherie
+133,Carol V. Davis,2,1,peripherie
+166,Jamie Asaye Fitzgerald,2,1,peripherie
+245,Harmony Holiday,2,1,peripherie
+300,Russell Leong,2,1,peripherie
+323,Lewis MacAdams,2,1,peripherie
+383,Gail Newman,2,1,peripherie
+477,Maya Salameh,2,1,peripherie
+486,Peter Schjeldahl,2,1,peripherie
+496,Mahtem Shiferraw,2,1,peripherie
+145,Linda Dove,1,1,peripherie
+172,Ruth Forman,1,1,peripherie
+217,Charles Gullans,1,1,peripherie
+313,Bia Lowe,1,1,peripherie
+346,Anthony McCann,1,1,peripherie
+356,Douglas Messerli,1,1,peripherie
+395,Jamie O'Halloran,1,1,peripherie
+399,Martin Ott,1,1,peripherie
+469,Lee Rossi,1,1,peripherie
+493,Patty Seyburn,1,1,peripherie
+538,Daniel Tiffany,1,1,peripherie
+543,Michael Torres,1,1,peripherie
+580,Joanna Warwick,1,1,peripherie
+588,Jackson Wheeler,1,1,peripherie
+45,John Beecher,0,1,peripherie
+63,Sue Abbott Boyd,0,1,peripherie
+202,Don Gordon,0,1,peripherie
+268,Hanson Kellogg,0,1,peripherie
+271,Stanley Kiesel,0,1,peripherie
+345,James Boyer May,0,1,peripherie
+437,John Rechy,0,1,peripherie
+440,Naomi Replansky,0,1,peripherie
+463,Edwin Rolfe,0,1,peripherie
+605,Peter Yates,0,1,peripherie
+60,Laurel Ann Bogen,9,0,local
+364,Bill Mohr,8,0,local
+146,Kim Dower,7,0,local
+171,Michael C. Ford,7,0,local
+319,Suzanne Lummis,7,0,local
+439,Steven Reigns,7,0,local
+554,Amy Uyematsu,7,0,local
+199,Liz Gonzalez,6,0,local
+206,Jack Grapes,6,0,local
+220,Peter J. Harris,6,0,local
+522,Austin Straus,6,0,local
+134,Kamau Daáood,5,0,local
+170,Charles Flowers,5,0,local
+311,Philomene Long,5,0,local
+391,Harry Northup,5,0,local
+438,Ellen Reich,5,0,local
+510,Brian Sonia-Wallace,5,0,local
+511,Mike Sonksen,5,0,local
+536,John Thomas,5,0,local
+578,Pam Ward,5,0,local
+10,Linda Albertano,4,0,peripherie
+177,Amelie Frank,4,0,peripherie
+185,Manazar Gamboa,4,0,peripherie
+234,Leland Hickman,4,0,peripherie
+369,Henry J. Morro,4,0,peripherie
+409,Sherman Pearl,4,0,peripherie
+557,Paul Vangelisti,4,0,peripherie
+569,Antonieta Villamil,4,0,peripherie
+573,Fred Voss,4,0,peripherie
+612,Mariano Zaro,4,0,peripherie
+44,Lory Bedikian,3,0,peripherie
+69,F. Douglas Brown,3,0,peripherie
+78,Ann Buxie,3,0,peripherie
+85,Helene Cardona,3,0,peripherie
+87,Anne Carmack,3,0,peripherie
+93,Jessica Ceballos,3,0,peripherie
+101,Jen Cheng,3,0,peripherie
+106,Chiwan Choi,3,0,peripherie
+128,Art Currim,3,0,peripherie
+162,Alexis Rhone Fancher,3,0,peripherie
+179,Elliot Fried,3,0,peripherie
+183,Kate Gale,3,0,peripherie
+186,Ramon Garcia,3,0,peripherie
+187,Jerry Garcia,3,0,peripherie
+204,Gerda Govine,3,0,peripherie
+205,Natalie J. Graham,3,0,peripherie
+222,Nathan Hassall,3,0,peripherie
+230,Gustavo Hernandez,3,0,peripherie
+263,Lois P. Jones,3,0,peripherie
+266,Traci Kato-Kiriyama,3,0,peripherie
+269,Karen Kevorkian,3,0,peripherie
+278,Doug Knott,3,0,peripherie
+302,Peter Levitt,3,0,peripherie
+322,Phoebe MacAdams,3,0,peripherie
+333,Lynn Manning,3,0,peripherie
+343,Keith Antar Mason,3,0,peripherie
+344,Holaday Mason,3,0,peripherie
+357,Deena Metzger,3,0,peripherie
+390,Marisela Norte,3,0,peripherie
+402,Judith Pacht,3,0,peripherie
+415,Stuart Z. Perkoff,3,0,peripherie
+426,Eric Priestley,3,0,peripherie
+434,Linda Ravenswood,3,0,peripherie
+456,Aleida Rodriguez,3,0,peripherie
+472,Beth Ruscio,3,0,peripherie
+494,S. Pearl Sharp,3,0,peripherie
+506,Joan Jobe Smith,3,0,peripherie
+583,Florence Weinberger,3,0,peripherie
+591,Conney D. Williams,3,0,peripherie
+593,Bruce Williams,3,0,peripherie
+597,Sholeh Wolpe,3,0,peripherie
+1,Steve Abee,2,0,peripherie
+18,Rafael F J Alvarado,2,0,peripherie
+23,Dave Alvin,2,0,peripherie
+25,E. Amato,2,0,peripherie
+31,Mary Armstrong,2,0,peripherie
+32,Diana Arterian,2,0,peripherie
+34,Erika Ayon,2,0,peripherie
+41,Richard Beban,2,0,peripherie
+42,Marjorie Becker,2,0,peripherie
+46,Max Benavidez,2,0,peripherie
+48,Lin Benedek,2,0,peripherie
+50,Dinah Berland,2,0,peripherie
+55,Bridgette Bianca,2,0,peripherie
+59,Charles Bivins,2,0,peripherie
+64,Bruce Boyd,2,0,peripherie
+83,Luis Campos,2,0,peripherie
+90,Peter Cashorali,2,0,peripherie
+97,Exene Cervenka,2,0,peripherie
+102,Neeli Cherry,2,0,peripherie
+110,Jeanette Clough,2,0,peripherie
+112,Nan Cohen,2,0,peripherie
+123,Robert Crosson,2,0,peripherie
+125,Gil Cuadros,2,0,peripherie
+142,John Doe,2,0,peripherie
+148,Jawanza Dumisani,2,0,peripherie
+157,Yvonne M. Estrada,2,0,peripherie
+168,Bob Flanagan,2,0,peripherie
+203,Amanda Gorman,2,0,peripherie
+215,S.A. Griffin,2,0,peripherie
+237,Regina Higgins,2,0,peripherie
+242,Jen Hofer,2,0,peripherie
+259,David James,2,0,peripherie
+277,Kaaren Kitchell,2,0,peripherie
+281,Ian Krieger,2,0,peripherie
+294,Christine Larusso,2,0,peripherie
+297,Julayne Lee,2,0,peripherie
+298,Carol Lem,2,0,peripherie
+299,Lester Lennon,2,0,peripherie
+309,Kenji Liu,2,0,peripherie
+316,Eve Luckring,2,0,peripherie
+334,Douglas Manuel,2,0,peripherie
+336,Ymasumac Maranon,2,0,peripherie
+341,Ruben Martinez,2,0,peripherie
+352,Deborah Meadows,2,0,peripherie
+355,Sequoia Olivia Mercier,2,0,peripherie
+374,Merilene M. Murphy,2,0,peripherie
+376,Majid Naficy,2,0,peripherie
+378,Jim Natal,2,0,peripherie
+388,Art Nixon,2,0,peripherie
+393,V. Kali Nurigan,2,0,peripherie
+411,Candace Pearson,2,0,peripherie
+416,Alice Pero,2,0,peripherie
+418,Dennis Phillips,2,0,peripherie
+454,Brooks Roddan,2,0,peripherie
+470,Melissa Roxas,2,0,peripherie
+482,Cathie Sandstrom,2,0,peripherie
+484,Standard Schaeffer,2,0,peripherie
+487,Peter Schneidre,2,0,peripherie
+491,Matt Sedillo,2,0,peripherie
+492,Anthony Seidman,2,0,peripherie
+502,Romus Simpson,2,0,peripherie
+503,Hiram Sims,2,0,peripherie
+514,Donna Spruijt-Metz,2,0,peripherie
+521,Charles Stetler,2,0,peripherie
+525,Hannibal Tabu,2,0,peripherie
+531,Jervey Tervalon,2,0,peripherie
+535,Tanya S. Thamkruphat,2,0,peripherie
+540,Imani Tolliver,2,0,peripherie
+541,A.K. Toney,2,0,peripherie
+542,Mary Torregrossa,2,0,peripherie
+560,Rolland Vasin,2,0,peripherie
+571,Marci Vogel,2,0,peripherie
+577,Scott Wannberg,2,0,peripherie
+579,Marine Robert Warden,2,0,peripherie
+585,Hilda Weiss,2,0,peripherie
+604,Brenda Yates,2,0,peripherie
+609,Kim Young,2,0,peripherie
+614,Rafael Zepeda,2,0,peripherie
+616,Ed Smith,2,0,peripherie
+2,Harold Abramowitz,1,0,peripherie
+3,Ricardo Lira Acuna,1,0,peripherie
+4,Thomas Adams,1,0,peripherie
+5,Mikael Ahadou,1,0,peripherie
+6,Christine Choi Ahmed,1,0,peripherie
+7,Tanzila Ahmed,1,0,peripherie
+9,Riua Akinshegun,1,0,peripherie
+11,Nelson Alburquenque,1,0,peripherie
+16,Blair H. Allen,1,0,peripherie
+17,Rosie Angelica Alonso,1,0,peripherie
+19,Li Yun Alvarado,1,0,peripherie
+20,Karina Oliva Alvarado,1,0,peripherie
+21,Melissa F. Alvarado,1,0,peripherie
+22,Gloria Alvarez,1,0,peripherie
+26,Iris De Anda,1,0,peripherie
+30,RD Armstrong,1,0,peripherie
+35,Danny Baker,1,0,peripherie
+36,Dorothy Barnes,1,0,peripherie
+39,Todd Baron,1,0,peripherie
+49,Kim Benjamin,1,0,peripherie
+53,Andres Bermejo,1,0,peripherie
+56,Niki Billingslea,1,0,peripherie
+62,Jennifer Bowen,1,0,peripherie
+65,John Brander,1,0,peripherie
+66,John Brantingham,1,0,peripherie
+68,Lynne Bronstein,1,0,peripherie
+70,Derek D. Brown,1,0,peripherie
+72,Jeffrey Bryant,1,0,peripherie
+73,Shonda Buchanan,1,0,peripherie
+75,Ruthie Buell,1,0,peripherie
+77,Billy Burgos,1,0,peripherie
+80,Paul Calderon,1,0,peripherie
+82,Don Kingfisher Campbell,1,0,peripherie
+84,Jessica M. Wilson Cardenas,1,0,peripherie
+88,Anaid Carreno,1,0,peripherie
+89,Iliana Carter,1,0,peripherie
+91,Fernando J. Castro,1,0,peripherie
+92,Sue Caylor,1,0,peripherie
+94,Adrian Ernesto Cepeda,1,0,peripherie
+95,Angel Cerritos,1,0,peripherie
+96,Alma Cervantes,1,0,peripherie
+98,Robert Chambers,1,0,peripherie
+100,Lisa Cheby,1,0,peripherie
+104,Aileen Cho,1,0,peripherie
+105,Gabreal Cho,1,0,peripherie
+107,Marcus Clayton,1,0,peripherie
+108,Odessa Cleveland,1,0,peripherie
+111,Tricia Cochee,1,0,peripherie
+113,Lori Cohen,1,0,peripherie
+114,Mark Colasurdo,1,0,peripherie
+116,Larry Colker,1,0,peripherie
+124,Rafa Cruz,1,0,peripherie
+126,Iliana Cuellar,1,0,peripherie
+127,Yago S. Cura,1,0,peripherie
+130,Doren Damico,1,0,peripherie
+132,Michael Datcher,1,0,peripherie
+136,Juan Delgado,1,0,peripherie
+137,Seven Dhar,1,0,peripherie
+138,David M. Diaz,1,0,peripherie
+140,Nia Malika Dixon,1,0,peripherie
+141,Peggy Dobreer,1,0,peripherie
+143,Dennis Dorney,1,0,peripherie
+147,Sharif Dumani,1,0,peripherie
+149,Steve Effingham,1,0,peripherie
+151,Christian Elder,1,0,peripherie
+152,Dennis Ellman,1,0,peripherie
+153,Seth Elpenor,1,0,peripherie
+154,Francisco Escamilla,1,0,peripherie
+156,Frances Salome Espana,1,0,peripherie
+158,Carrie Etter,1,0,peripherie
+159,Eric Eztli,1,0,peripherie
+161,B.H. Fairchild,1,0,peripherie
+163,Maria Fattorini,1,0,peripherie
+164,Rich Ferguson,1,0,peripherie
+167,Mary Fitzpatrick,1,0,peripherie
+169,Angela Rose Flores,1,0,peripherie
+176,Mariana Franco,1,0,peripherie
+178,Angela M. Franklin,1,0,peripherie
+184,Lucia Galloway,1,0,peripherie
+189,Nicolai Garcia,1,0,peripherie
+190,Margaret Elysia Garcia,1,0,peripherie
+192,Marisa Urrutia Gedney,1,0,peripherie
+193,Emma Gee,1,0,peripherie
+197,Steve Goldman,1,0,peripherie
+200,William A. Gonzalez,1,0,peripherie
+207,Pamela Gray,1,0,peripherie
+208,Dorothy Randall Gray,1,0,peripherie
+209,Janet Gray,1,0,peripherie
+210,Timothy Green,1,0,peripherie
+212,Robert Greenfield,1,0,peripherie
+213,Ian Gregson,1,0,peripherie
+214,Robert Gribbin,1,0,peripherie
+219,John Harris,1,0,peripherie
+221,Hazel Clayton Harrison,1,0,peripherie
+223,Levan Hawkins,1,0,peripherie
+225,Kevin James Hearle,1,0,peripherie
+231,Adolfo Y. Hernandez,1,0,peripherie
+232,Raul Herrera,1,0,peripherie
+235,Bill Hickok,1,0,peripherie
+238,William Ryan Hilary,1,0,peripherie
+239,Yuri Hinson,1,0,peripherie
+241,Marlene Hitt,1,0,peripherie
+243,Alexandra Hohmann,1,0,peripherie
+244,Karen Holden,1,0,peripherie
+246,Jamal Holmes,1,0,peripherie
+250,Eric Howard,1,0,peripherie
+252,Nan Hunt,1,0,peripherie
+253,Terry Hunter,1,0,peripherie
+254,Boris Salvador Ingles,1,0,peripherie
+255,Charlotte Innes,1,0,peripherie
+258,Wendy James,1,0,peripherie
+262,James Evert Jones,1,0,peripherie
+264,Harry Gamboa Jr.,1,0,peripherie
+265,Grover Jacoby Jr.,1,0,peripherie
+272,Chungmi Kim,1,0,peripherie
+274,Linda King,1,0,peripherie
+280,Steve Kowit,1,0,peripherie
+287,Tom Laichas,1,0,peripherie
+290,Haley Laningham,1,0,peripherie
+291,Carlos Lara,1,0,peripherie
+292,Teka Lark,1,0,peripherie
+295,Anthony A. Lee,1,0,peripherie
+296,Janice Lee,1,0,peripherie
+303,Carol Lewis,1,0,peripherie
+305,Kimberly Lieu,1,0,peripherie
+306,Martha Lifson,1,0,peripherie
+307,Mark Lipman,1,0,peripherie
+312,Jaime Lopez,1,0,peripherie
+314,Josslyn Luckett,1,0,peripherie
+315,Jason Luckett,1,0,peripherie
+317,Oshea Luja,1,0,peripherie
+318,Melanie Luja,1,0,peripherie
+320,Rick Lupert,1,0,peripherie
+321,K. Curtis Lyle,1,0,peripherie
+325,Robert Mader-Kammer,1,0,peripherie
+328,Karineh Mahdessian,1,0,peripherie
+330,Barbara Maloutas,1,0,peripherie
+332,Nichola Manning,1,0,peripherie
+337,William Margolis,1,0,peripherie
+338,Ruthie Marlene,1,0,peripherie
+340,Jeffery Martin,1,0,peripherie
+342,D Hideo Maruyama,1,0,peripherie
+349,Rhiannon McGavin,1,0,peripherie
+353,Murray Mednick,1,0,peripherie
+354,Jose Mendivil,1,0,peripherie
+360,Rondo Mieczkowski,1,0,peripherie
+361,Elena Minor,1,0,peripherie
+362,Rhonda Lynn Mitchell,1,0,peripherie
+363,Penelope Moffet,1,0,peripherie
+365,Alejandro Molina,1,0,peripherie
+366,Thea Monyee,1,0,peripherie
+371,Sybil Mosely,1,0,peripherie
+379,Mindy Nettifee,1,0,peripherie
+384,Terri Niccum,1,0,peripherie
+385,Alice Nicholas,1,0,peripherie
+387,Janet Nippell,1,0,peripherie
+389,Victor Noel,1,0,peripherie
+397,Akilah Nayo Oliver,1,0,peripherie
+398,Wendy C. Ortiz,1,0,peripherie
+400,Rosella Pace,1,0,peripherie
+401,Javier Pacheco,1,0,peripherie
+403,Nancy Padron,1,0,peripherie
+404,Melinda Palacio,1,0,peripherie
+405,Rae Paris,1,0,peripherie
+410,Marlene Pearson,1,0,peripherie
+412,Gerda Penfold,1,0,peripherie
+413,Cece Peri,1,0,peripherie
+419,Ramona Pilar,1,0,peripherie
+422,Robin Podolsky,1,0,peripherie
+423,Doraine Poretz,1,0,peripherie
+424,Nailah Porter,1,0,peripherie
+427,Jerry Quickley,1,0,peripherie
+428,Naomi Quinonez,1,0,peripherie
+429,Arturo Quiros,1,0,peripherie
+432,Jed Rasula,1,0,peripherie
+435,Donald Rawley,1,0,peripherie
+436,A. Razor,1,0,peripherie
+441,Luivette Resto,1,0,peripherie
+442,Michael Reyes,1,0,peripherie
+443,Erika Reyes,1,0,peripherie
+444,Thelma T. Reyna,1,0,peripherie
+447,Steve Richmond,1,0,peripherie
+448,Frankie Rios,1,0,peripherie
+449,El Rivera,1,0,peripherie
+450,Sophia Rivera,1,0,peripherie
+452,Ariel Robello,1,0,peripherie
+453,Marilyn Robertson,1,0,peripherie
+457,Daniela Rodriguez,1,0,peripherie
+458,Trini Rodriguez,1,0,peripherie
+459,Claudia Rodriguez,1,0,peripherie
+460,Norma Rodriguez,1,0,peripherie
+461,Ramiro D. Rodriguez,1,0,peripherie
+462,Jeff Rogers,1,0,peripherie
+465,Conrad Romo,1,0,peripherie
+466,Jessica Romoff,1,0,peripherie
+468,Sylvia Rosen,1,0,peripherie
+473,A.P. Russo,1,0,peripherie
+474,Mehnaz Sahibzada,1,0,peripherie
+475,Pogo Saito,1,0,peripherie
+478,Abel Salas,1,0,peripherie
+480,Alejandra Sanchez,1,0,peripherie
+481,Georgiana Valoyce Sanchez,1,0,peripherie
+483,T Sarmina,1,0,peripherie
+485,Nicky Sa-eun Schildkraut,1,0,peripherie
+489,Tony Scibella,1,0,peripherie
+495,Michael Shepler,1,0,peripherie
+497,Nancy Shiffrin,1,0,peripherie
+500,Renee Simms,1,0,peripherie
+504,Willie Sims,1,0,peripherie
+507,Frances Dean Smith,1,0,peripherie
+509,Raaki Solomon,1,0,peripherie
+513,Lawrence Spingarn,1,0,peripherie
+515,A.C. Lyons Sr.,1,0,peripherie
+517,Robert Stanley,1,0,peripherie
+520,Julia Stein,1,0,peripherie
+524,Rob Sullivan,1,0,peripherie
+526,Ambika Talwar,1,0,peripherie
+527,Amber Tamblyn,1,0,peripherie
+529,Roger Taus,1,0,peripherie
+532,Judith Terzi,1,0,peripherie
+534,Tezozomoc,1,0,peripherie
+539,Matthew Timmons,1,0,peripherie
+545,Paul Trachtenberg,1,0,peripherie
+550,Tu'Nook,1,0,peripherie
+551,Wyatt Underwood,1,0,peripherie
+552,Mitchell Untch,1,0,peripherie
+553,Anna Urena,1,0,peripherie
+555,Victor Valle,1,0,peripherie
+558,Debra A. Varnado,1,0,peripherie
+559,Cherry Jean Vasconcellos,1,0,peripherie
+561,Gustavo Adolfo Guerra Vasquez,1,0,peripherie
+562,Yvonne de la Vega,1,0,peripherie
+563,Sharon Venezio,1,0,peripherie
+565,Vickie Vertiz,1,0,peripherie
+566,Jennifer Lisa Vest,1,0,peripherie
+567,Estela Victoria-Cordero,1,0,peripherie
+570,Celia Viramontes,1,0,peripherie
+576,Melora Walters,1,0,peripherie
+584,Mel Weisburg,1,0,peripherie
+592,Angelo Williams,1,0,peripherie
+595,Sammy Winston,1,0,peripherie
+599,Nancy Lynee Woo,1,0,peripherie
+602,Nina Yamamoto,1,0,peripherie
+603,Tina Yang,1,0,peripherie
+608,Sung Yol Yi,1,0,peripherie
+610,Curtis Zahn,1,0,peripherie
+611,Jaha Zainabu,1,0,peripherie
+615,Al Zolynas,1,0,peripherie
+617,Goldie the Poet,1,0,peripherie
+619,Jenuine Poetess,1,0,peripherie
+620,A Kold Piece,1,0,peripherie
+621,Father Amde,1,0,peripherie
+622,October B.L.U.,1,0,peripherie
+623,Charlotte Sista C Ferrell,1,0,peripherie
+624,Adolphus McDuffie Jr.,1,0,peripherie
+625,Susannah Foster,1,0,peripherie
+8,Josephine Ain,0,0,peripherie
+12,Robert Alexander,0,0,peripherie
+14,Luis Alfaro,0,0,peripherie
+27,Michael Andrews,0,0,peripherie
+33,Kenneth Atchity,0,0,peripherie
+51,Wallace Berman,0,0,peripherie
+57,Billy Al Bingston,0,0,peripherie
+81,Ben Caldwell,0,0,peripherie
+103,Judy Chicago,0,0,peripherie
+117,Buddy Collette,0,0,peripherie
+129,James Cushing,0,0,peripherie
+135,Jacqueline DeAngelis,0,0,peripherie
+150,Susan Efros,0,0,peripherie
+173,Simone Forti,0,0,peripherie
+174,Charles Foster,0,0,peripherie
+181,George Fuller,0,0,peripherie
+182,Sol Funerol,0,0,peripherie
+195,Marsha Getzler,0,0,peripherie
+198,Guillermo Gomez-Pena,0,0,peripherie
+216,Gronk,0,0,peripherie
+218,Joseph Hansen,0,0,peripherie
+227,George Herms,0,0,peripherie
+229,Judith Hernandez,0,0,peripherie
+236,Billy Higgins,0,0,peripherie
+247,Tanya Ko Hong,0,0,peripherie
+248,Walter Hopps,0,0,peripherie
+249,Coy Howard,0,0,peripherie
+251,Dorothy B. Hughes,0,0,peripherie
+256,Eileen Aaronson Ireland,0,0,peripherie
+257,William Iwamoto,0,0,peripherie
+260,Paul Jarrico,0,0,peripherie
+270,Ed Kienholz,0,0,peripherie
+273,Susan King,0,0,peripherie
+275,Robert Kirsch,0,0,peripherie
+276,Jonathan Kirsch,0,0,peripherie
+282,Nancy Krusoe,0,0,peripherie
+284,Harvey Kubernik,0,0,peripherie
+285,Suzanne Lacy,0,0,peripherie
+286,Maurice Lacy,0,0,peripherie
+289,Frona Lane,0,0,peripherie
+293,Carl Larsen,0,0,peripherie
+327,Mad Mike Magdalani,0,0,peripherie
+329,Marvin Malone,0,0,peripherie
+331,Albert Maltz,0,0,peripherie
+335,Ray Manzarek,0,0,peripherie
+339,John Martin,0,0,peripherie
+347,Horace McCoy,0,0,peripherie
+348,Ross McDonald,0,0,peripherie
+351,Carey McWilliams,0,0,peripherie
+367,Cher'rie Moraga,0,0,peripherie
+368,James Ryan Morris,0,0,peripherie
+370,Walter Moseley,0,0,peripherie
+372,Suzanne Muchnic,0,0,peripherie
+373,Judy Mudfoot,0,0,peripherie
+377,Marty Nakel,0,0,peripherie
+380,Sasha Newborn,0,0,peripherie
+381,Charley Newman,0,0,peripherie
+382,Julia Newman,0,0,peripherie
+386,Ann Nietzsche,0,0,peripherie
+392,Estelle Gershgoren Novak,0,0,peripherie
+396,William Oandasan,0,0,peripherie
+407,T. Jefferson Parker,0,0,peripherie
+408,Blanche Paul,0,0,peripherie
+414,Suzan Perkoff,0,0,peripherie
+421,Ben Pleasants,0,0,peripherie
+430,Claire Rabe,0,0,peripherie
+433,Arlene Raven,0,0,peripherie
+446,Arte Richer,0,0,peripherie
+464,Henry Rollins,0,0,peripherie
+471,Ed Ruscha,0,0,peripherie
+479,Mark Salerno,0,0,peripherie
+488,Budd Schulberg,0,0,peripherie
+490,Adrian Scott,0,0,peripherie
+498,Lynn Shoemaker,0,0,peripherie
+501,Norton Simon,0,0,peripherie
+508,George Drury Smith,0,0,peripherie
+512,Phil Spector,0,0,peripherie
+528,Horace Tapscott,0,0,peripherie
+533,Edmund Teske,0,0,peripherie
+546,Gene Trembleau,0,0,peripherie
+548,Alexander Trocchi,0,0,peripherie
+564,Michael Ventura,0,0,peripherie
+568,Raul Homero Villa,0,0,peripherie
+574,Tom Waits,0,0,peripherie
+586,Benjamin Weissman,0,0,peripherie
+587,Lawrence Weschler,0,0,peripherie
+589,Saul White,0,0,peripherie
+594,Michael Wilson,0,0,peripherie
+600,Elaine Woo,0,0,peripherie
+613,Jake Zeitlin,0,0,peripherie
